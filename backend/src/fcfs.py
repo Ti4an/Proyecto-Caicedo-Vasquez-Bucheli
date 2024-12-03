@@ -6,7 +6,7 @@ def fcfs(arm_position, lrequests, debug=False):
 
   Args:
       arm_position (int): arm position
-      lrequests (list<int>): request list
+      lrequests (list<int>): request lis
   """
   distance=0
   n=len(lrequests)
